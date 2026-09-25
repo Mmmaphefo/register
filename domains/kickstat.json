@@ -1,0 +1,21 @@
+{
+  "owner": {
+    "username": "Mmmaphefo",
+    "email": "tshegomaphefo48@gmail.com"
+  },
+  "records": {},
+  "subdomains": {
+    "resend._domainkey": {
+      "TXT": "p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCuqNijZ32xWJsvW6OaEU+6U+OIJb45tlrerMAtb4WUz7xucwi3WMiMSq6Dqu02MOVW4ariCzvUzNE0TTZKVDrTYI3cnu0Y91pFr+DifbhV/5AHwZRJLPaH2GTpFfp6MKg6JjVz2XaAeuEHHvhlCCL2SeKtlc72d2YEksfIuUa3uwIDAQAB"
+    },
+    "rsend": {
+      "CNAME": "rsend-euw1.forge.rmta.net"
+    },
+    "send": {
+      "CNAME": "send.forge.rmta.net"
+    },
+    "_dmarc": {
+      "TXT": "v=DMARC1; p=none;"
+    }
+  }
+}
